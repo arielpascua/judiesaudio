@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+next-env.d.ts
+tsconfig.tsbuildinfo
+.env
+.env*
+!.env.example
+test-results
+playwright-report
+.playwright-mcp
+public/img/_raw
+.claude
+.superpowers
